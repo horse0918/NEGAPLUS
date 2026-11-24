@@ -256,5 +256,491 @@
     "meaning": "進入專注狀態、全神貫注",
     "example": "I turned off my phone and locked in for two hours.",
     "tag": "SLANG"
+  },
+  {
+    "word": "aura",
+    "meaning": "氣場、個人魅力值",
+    "example": "He stayed calm when the projector died. Major aura.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "lose aura",
+    "meaning": "丟臉、形象扣分",
+    "example": "He tripped walking on stage and lost all his aura.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "brain rot",
+    "meaning": "被無腦短影音洗到腦袋變鈍",
+    "example": "I scrolled for three hours straight. Pure brain rot.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "NPC",
+    "meaning": "像路人角色一樣沒主見、照本宣科",
+    "example": "He just repeats whatever’s trending like an NPC.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "main character energy",
+    "meaning": "主角氣場、把生活當電影主角",
+    "example": "Walking in the rain with headphones on is main character energy.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "glow up",
+    "meaning": "大變身、變好看或變更好",
+    "example": "Her glow up since high school is unreal.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "the ick",
+    "meaning": "對某人瞬間倒胃口的感覺",
+    "example": "He clapped when the plane landed and I got the ick.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "red flag",
+    "meaning": "危險訊號、警訊",
+    "example": "He was rude to the waiter. Huge red flag.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "green flag",
+    "meaning": "加分特質、讓人放心的訊號",
+    "example": "She remembers my friends’ names. Total green flag.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "gaslight",
+    "meaning": "情緒操縱、讓人懷疑自己的記憶",
+    "example": "Don’t gaslight me. You said you’d be here at six.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "understood the assignment",
+    "meaning": "完全抓到重點、做得超到位",
+    "example": "Everyone dressed for the theme. They understood the assignment.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "era",
+    "meaning": "人生某個階段或狀態",
+    "example": "I’m in my early-morning gym era.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "-core",
+    "meaning": "……風（某種風格或美學）",
+    "example": "Her apartment is very cottagecore.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "slaps",
+    "meaning": "超好聽、超讚（常指音樂或食物）",
+    "example": "This playlist slaps.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "based",
+    "meaning": "有主見、敢說真話不隨波逐流",
+    "example": "He ordered dessert first without caring what anyone thought. Based.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "ratio",
+    "meaning": "回覆比原文更多讚（等於被打臉）",
+    "example": "His hot take got ratioed in an hour.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "W",
+    "meaning": "贏、好事（win）",
+    "example": "Free refills all day? Huge W.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "L",
+    "meaning": "輸、衰事（loss）",
+    "example": "Missing the bus by ten seconds is a big L.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "periodt",
+    "meaning": "就這樣，沒得辯",
+    "example": "She’s the best singer in the group, periodt.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "simp",
+    "meaning": "對喜歡的人過度討好",
+    "example": "He drove two hours to bring her coffee. Such a simp.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "stan",
+    "meaning": "狂熱支持、死忠粉絲",
+    "example": "I stan a coworker who brings snacks every Friday.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "gatekeep",
+    "meaning": "藏私、不肯分享好東西",
+    "example": "Where did you get that jacket? Don’t gatekeep.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "girl dinner",
+    "meaning": "隨便湊合的一餐",
+    "example": "Crackers, cheese and grapes. That’s girl dinner.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "mog",
+    "meaning": "外貌或氣場碾壓別人",
+    "example": "He mogged everyone in the group photo.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "-maxxing",
+    "meaning": "把某件事做到極致",
+    "example": "I’m sleepmaxxing this weekend. No alarms.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "chat",
+    "meaning": "對著空氣當觀眾講話（模仿直播）",
+    "example": "Chat, is this real? He actually showed up on time.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "crash out",
+    "meaning": "情緒失控、暴走做出衝動行為",
+    "example": "I almost crashed out when the app deleted my notes.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "tweaking",
+    "meaning": "腦子怪怪的、在亂講",
+    "example": "You think pineapple belongs in coffee? You’re tweaking.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "yap",
+    "meaning": "一直講廢話、講不停",
+    "example": "He yapped about crypto for the whole ride.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "glazing",
+    "meaning": "吹捧過頭、拍馬屁",
+    "example": "Stop glazing the coach. He’s not that good.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "unc",
+    "meaning": "跟不上潮流的大叔（調侃）",
+    "example": "You don’t know what rizz means? Okay, unc.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "he’s him",
+    "meaning": "他就是那個咖、真的很強",
+    "example": "He scored the winning goal again. He’s him.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "mood",
+    "meaning": "我也是、超有共鳴",
+    "example": "“I want to nap until Friday.” “Mood.”",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "sending me",
+    "meaning": "讓我笑翻",
+    "example": "Your cat’s face in that photo is sending me.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "it’s the ___ for me",
+    "meaning": "我最在意（或最受不了）的是……",
+    "example": "It’s the confidence for me. He sang off-key like a pro.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "iykyk",
+    "meaning": "懂的就懂（if you know, you know）",
+    "example": "That one corner table at the café? Iykyk.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "bffr",
+    "meaning": "認真點好嗎（be for real）",
+    "example": "You’re leaving at 2 a.m. and starting work at 7? Bffr.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "no thoughts, head empty",
+    "meaning": "腦袋放空、什麼都沒在想",
+    "example": "Long weekend, beach chair. No thoughts, head empty.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "left on read",
+    "meaning": "已讀不回",
+    "example": "I asked her out and got left on read.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "doomscrolling",
+    "meaning": "停不下來地狂滑負面消息",
+    "example": "Stop doomscrolling and go to sleep.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "FOMO",
+    "meaning": "怕錯過的焦慮（fear of missing out）",
+    "example": "I only went to the party because of FOMO.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "extra",
+    "meaning": "太誇張、太浮誇",
+    "example": "A smoke machine for a birthday dinner? That’s so extra.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "shook",
+    "meaning": "被嚇到、震驚",
+    "example": "I was shook when she said she was moving abroad.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "receipts",
+    "meaning": "證據（多指截圖）",
+    "example": "You said you never said that? I have receipts.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "lit",
+    "meaning": "超嗨、超熱鬧",
+    "example": "The concert last night was lit.",
+    "tag": "SLANG"
+  },
+  {
+    "word": "flex",
+    "meaning": "炫耀",
+    "example": "He keeps flexing his new watch in every photo.",
+    "tag": "SLANG"
+  },
+  {
+    "word": "weird flex but OK",
+    "meaning": "炫耀的點很奇怪，但好吧",
+    "example": "You’ve never seen a movie in a theater? Weird flex, but OK.",
+    "tag": "SLANG"
+  },
+  {
+    "word": "bougie",
+    "meaning": "愛裝高級、講究派頭",
+    "example": "Truffle fries and sparkling water? Look at you being bougie.",
+    "tag": "SLANG"
+  },
+  {
+    "word": "basic",
+    "meaning": "很大眾、沒特色",
+    "example": "Pumpkin spice latte again? You’re so basic.",
+    "tag": "SLANG"
+  },
+  {
+    "word": "snatched",
+    "meaning": "超好看、身材或造型很完美",
+    "example": "Your hair is snatched today.",
+    "tag": "SLANG"
+  },
+  {
+    "word": "drip",
+    "meaning": "穿搭很有型",
+    "example": "Check out his drip. Those sneakers are fire.",
+    "tag": "SLANG"
+  },
+  {
+    "word": "fire",
+    "meaning": "超讚、超好",
+    "example": "That new album is fire.",
+    "tag": "SLANG"
+  },
+  {
+    "word": "fit check",
+    "meaning": "看一下今天的穿搭",
+    "example": "Fit check before we head out?",
+    "tag": "SLANG"
+  },
+  {
+    "word": "gassed",
+    "meaning": "興奮、被誇得飄飄然",
+    "example": "He’s so gassed about getting the promotion.",
+    "tag": "SLANG"
+  },
+  {
+    "word": "gas someone up",
+    "meaning": "吹捧、幫人打氣",
+    "example": "My friends always gas me up before a date.",
+    "tag": "SLANG"
+  },
+  {
+    "word": "run it back",
+    "meaning": "再來一次",
+    "example": "That game was close. Let’s run it back.",
+    "tag": "SLANG"
+  },
+  {
+    "word": "secure the bag",
+    "meaning": "賺到錢、拿下好機會",
+    "example": "She negotiated a raise. She secured the bag.",
+    "tag": "SLANG"
+  },
+  {
+    "word": "dope",
+    "meaning": "很讚、很酷",
+    "example": "That mural downtown is dope.",
+    "tag": "SLANG"
+  },
+  {
+    "word": "vibe",
+    "meaning": "氛圍；很有感覺",
+    "example": "This rooftop bar is a whole vibe.",
+    "tag": "SLANG"
+  },
+  {
+    "word": "sheesh",
+    "meaning": "哇靠（驚嘆、讚嘆）",
+    "example": "Sheesh, you finished the whole pizza by yourself?",
+    "tag": "SLANG"
+  },
+  {
+    "word": "bruh",
+    "meaning": "傻眼、無言（兄弟）",
+    "example": "Bruh, you forgot the tickets?",
+    "tag": "SLANG"
+  },
+  {
+    "word": "hop on",
+    "meaning": "加入（遊戲、通話、計畫）",
+    "example": "Hop on the call when you’re free.",
+    "tag": "SLANG"
+  },
+  {
+    "word": "no shot",
+    "meaning": "不可能吧",
+    "example": "No shot he paid that much for a used car.",
+    "tag": "SLANG"
+  },
+  {
+    "word": "fr fr",
+    "meaning": "真的真的，超認真",
+    "example": "I’m quitting sugar this month, fr fr.",
+    "tag": "SLANG"
+  },
+  {
+    "word": "deadass",
+    "meaning": "認真的、沒在開玩笑",
+    "example": "I deadass thought it was Saturday.",
+    "tag": "STREET TALK"
+  },
+  {
+    "word": "finna",
+    "meaning": "準備要、打算（fixing to）",
+    "example": "I’m finna grab some food. You want anything?",
+    "tag": "STREET TALK"
+  },
+  {
+    "word": "on God",
+    "meaning": "我發誓",
+    "example": "On God, I didn’t eat your leftovers.",
+    "tag": "STREET TALK"
+  },
+  {
+    "word": "ain’t no way",
+    "meaning": "不可能吧、太扯了",
+    "example": "Ain’t no way that line is two hours long.",
+    "tag": "STREET TALK"
+  },
+  {
+    "word": "hella",
+    "meaning": "超級、非常",
+    "example": "That hike was hella steep.",
+    "tag": "STREET TALK"
+  },
+  {
+    "word": "fam",
+    "meaning": "自己人、兄弟姊妹",
+    "example": "Thanks for the ride, fam.",
+    "tag": "STREET TALK"
+  },
+  {
+    "word": "homie",
+    "meaning": "好兄弟、麻吉",
+    "example": "My homie fixed my bike for free.",
+    "tag": "STREET TALK"
+  },
+  {
+    "word": "ride or die",
+    "meaning": "挺你到底的死忠夥伴",
+    "example": "She drove across the state to help me move. Ride or die.",
+    "tag": "STREET TALK"
+  },
+  {
+    "word": "buggin’",
+    "meaning": "反應過度、在發神經",
+    "example": "You’re buggin’. Nobody’s mad at you.",
+    "tag": "STREET TALK"
+  },
+  {
+    "word": "trippin’",
+    "meaning": "想太多、反應過度",
+    "example": "Relax, you’re trippin’. The boss liked your idea.",
+    "tag": "STREET TALK"
+  },
+  {
+    "word": "big mad",
+    "meaning": "超級生氣",
+    "example": "He lost the bet and now he’s big mad.",
+    "tag": "STREET TALK"
+  },
+  {
+    "word": "catch these hands",
+    "meaning": "要打架囉（多半是玩笑）",
+    "example": "Touch my fries again and you’ll catch these hands.",
+    "tag": "STREET TALK"
+  },
+  {
+    "word": "what’s the move?",
+    "meaning": "等等要幹嘛、有什麼計畫",
+    "example": "It’s Friday night. What’s the move?",
+    "tag": "STREET TALK"
+  },
+  {
+    "word": "I’m good",
+    "meaning": "不用了，謝謝（婉拒）",
+    "example": "“Want another drink?” “I’m good, thanks.”",
+    "tag": "STREET TALK"
+  },
+  {
+    "word": "we outside",
+    "meaning": "我們出門了、要出去玩",
+    "example": "Exams are over. We outside!",
+    "tag": "STREET TALK"
+  },
+  {
+    "word": "hit me up",
+    "meaning": "聯絡我、傳訊息給我",
+    "example": "Hit me up when you land.",
+    "tag": "STREET TALK"
+  },
+  {
+    "word": "on sight",
+    "meaning": "一見面就……（多指要找人算帳）",
+    "example": "He ate my lunch again. It’s on sight.",
+    "tag": "STREET TALK"
   }
 ]
