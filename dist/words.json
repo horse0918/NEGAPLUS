@@ -742,5 +742,395 @@
     "meaning": "一見面就……（多指要找人算帳）",
     "example": "He ate my lunch again. It’s on sight.",
     "tag": "STREET TALK"
+  },
+  {
+    "word": "aura farming",
+    "meaning": "刻意營造很酷、很淡定的形象",
+    "example": "He keeps staring out the train window for photos. Total aura farming.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "aura points",
+    "meaning": "想像中的「酷度分數」，會加會扣",
+    "example": "Helping the old lady with her bags? Plus 1,000 aura points.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "6-7",
+    "meaning": "沒有實際意思的爆紅梗，常配上下比劃的手勢；也有人拿來表示「普普」",
+    "example": "“How was the test?” “Six-seven.”",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "chopped",
+    "meaning": "很醜、很爛、很遜",
+    "example": "My haircut came out chopped. I’m wearing a hat all week.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "crine",
+    "meaning": "笑到哭（crying 的故意錯拼）",
+    "example": "Son, I’m crine. Did you see his face?",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "fanum tax",
+    "meaning": "沒問就拿走別人的食物",
+    "example": "You took half my fries? That’s a fanum tax.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "larp",
+    "meaning": "裝成別人、假裝自己是某種人",
+    "example": "He’s larping as a finance bro after one investing video.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "side quest",
+    "meaning": "臨時插進來的小插曲、額外行程",
+    "example": "We went to buy milk and ended up on a side quest to the night market.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "soft launch",
+    "meaning": "低調透露（例如只露出新對象的手）",
+    "example": "She soft-launched her boyfriend with a photo of two coffee cups.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "hard launch",
+    "meaning": "高調公開、正式宣布",
+    "example": "They finally hard-launched the relationship on Instagram.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "sigma",
+    "meaning": "獨來獨往、不在乎規則的酷哥人設（常反諷）",
+    "example": "He eats lunch alone with sunglasses on. Very sigma.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "cortisol spike",
+    "meaning": "壓力瞬間飆高",
+    "example": "Seeing “Can we talk?” from my boss gave me a cortisol spike.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "lore",
+    "meaning": "某人的背景故事、過往經歷",
+    "example": "Wait, you used to be a magician? I need the full lore.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "lore dump",
+    "meaning": "一口氣把背景故事全講完",
+    "example": "I asked how her weekend was and got a 20-minute lore dump.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "rage bait",
+    "meaning": "故意惹人生氣來騙流量的內容",
+    "example": "Don’t reply to that post. It’s rage bait.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "slop",
+    "meaning": "大量產出的低品質內容（常指 AI 生成）",
+    "example": "My feed is full of AI slop now.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "vibe coding",
+    "meaning": "靠 AI 幫你寫程式，自己只描述想要什麼",
+    "example": "I built the whole app by vibe coding over the weekend.",
+    "tag": "SLANG"
+  },
+  {
+    "word": "parasocial",
+    "meaning": "對網紅或名人產生的單向親密感",
+    "example": "I cried when that streamer quit. It’s parasocial, I know.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "clanker",
+    "meaning": "對機器人或 AI 的戲謔貶稱",
+    "example": "The self-checkout clanker froze again.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "cheugy",
+    "meaning": "過時、太用力想跟流行",
+    "example": "Matching ‘Live, Laugh, Love’ mugs? Kind of cheugy.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "fairs",
+    "meaning": "說得也是（fair enough 的縮寫）",
+    "example": "“I can’t come, I’m broke.” “Fairs.”",
+    "tag": "SLANG"
+  },
+  {
+    "word": "standing on business",
+    "meaning": "說到做到、認真負責",
+    "example": "He said he’d pay me back Friday, and he did. Standing on business.",
+    "tag": "STREET TALK"
+  },
+  {
+    "word": "beige flag",
+    "meaning": "說不上好壞、有點無聊的小特質",
+    "example": "He only owns gray T-shirts. Beige flag.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "breadcrumbing",
+    "meaning": "給一點點曖昧訊號吊著人，卻不認真",
+    "example": "He texts once a week just to keep me hooked. That’s breadcrumbing.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "bed rot",
+    "meaning": "整天窩在床上滑手機耍廢",
+    "example": "My Sunday plan is to bed rot and order takeout.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "girl math",
+    "meaning": "幫花錢找理由的玩笑式算法",
+    "example": "It was on sale, so I basically made money. Girl math.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "pookie",
+    "meaning": "寶貝（親暱的暱稱）",
+    "example": "Good morning, pookie. Did you sleep well?",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "twin",
+    "meaning": "超好的朋友、麻吉",
+    "example": "Thanks for covering my shift, twin.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "performative",
+    "meaning": "做給別人看、刻意營造形象",
+    "example": "Reading poetry on the subway with a matcha? Kind of performative.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "pick me",
+    "meaning": "貶低別人來討好、博關注的人",
+    "example": "She keeps saying she’s “not like other girls.” Such a pick me.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "skibidi",
+    "meaning": "Gen Alpha 無意義的搞笑詞，好壞都能用",
+    "example": "My little brother says “skibidi” about everything.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "mewing",
+    "meaning": "把舌頭頂住上顎、號稱能讓下顎線更明顯",
+    "example": "He’s been mewing in every class photo.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "canon",
+    "meaning": "（粉圈）官方設定；正式成為事實",
+    "example": "We went to the same café twice. It’s canon now — that’s our place.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "POV",
+    "meaning": "以某人視角描述情境（短影音常用開頭）",
+    "example": "POV: you said “one episode” three hours ago.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "that’s AI",
+    "meaning": "太完美、太假，像 AI 做的",
+    "example": "That sunset photo is too perfect. That’s AI.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "quiet on the creek",
+    "meaning": "這件事別說出去",
+    "example": "I’m planning a surprise party for her. Quiet on the creek.",
+    "tag": "STREET TALK"
+  },
+  {
+    "word": "ate and left no crumbs",
+    "meaning": "表現完美，無可挑剔",
+    "example": "Her speech at the wedding? She ate and left no crumbs.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "and I oop",
+    "meaning": "對突發狀況的驚訝反應",
+    "example": "And I oop — I just spilled coffee on my laptop.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "clock it",
+    "meaning": "看穿、抓包別人想隱藏的事",
+    "example": "I clocked that he was lying the moment he smiled.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "menty b",
+    "meaning": "精神崩潰（mental breakdown 的玩笑說法）",
+    "example": "Three deadlines in one day? I’m about to have a menty b.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "heated",
+    "meaning": "很生氣",
+    "example": "He got heated when the ref made that call.",
+    "tag": "SLANG"
+  },
+  {
+    "word": "hop off",
+    "meaning": "別煩了、走開",
+    "example": "Hop off my case. I’ll do the dishes later.",
+    "tag": "SLANG"
+  },
+  {
+    "word": "swerve",
+    "meaning": "刻意避開某人",
+    "example": "I saw my ex at the mall and had to swerve.",
+    "tag": "STREET TALK"
+  },
+  {
+    "word": "swoop",
+    "meaning": "開車去接人",
+    "example": "Can you swoop me on the way to the party?",
+    "tag": "STREET TALK"
+  },
+  {
+    "word": "stoked",
+    "meaning": "超興奮、超期待",
+    "example": "I’m so stoked for the concert tonight.",
+    "tag": "SLANG"
+  },
+  {
+    "word": "savage",
+    "meaning": "狠、敢講、超強悍",
+    "example": "She told him his idea was boring in front of everyone. Savage.",
+    "tag": "SLANG"
+  },
+  {
+    "word": "ngl",
+    "meaning": "說真的（not gonna lie）",
+    "example": "Ngl, that movie made me cry.",
+    "tag": "SLANG"
+  },
+  {
+    "word": "facts",
+    "meaning": "說得對、同意",
+    "example": "“Mondays should be illegal.” “Facts.”",
+    "tag": "SLANG"
+  },
+  {
+    "word": "GOAT",
+    "meaning": "史上最強（greatest of all time）",
+    "example": "My grandma’s dumplings are the GOAT.",
+    "tag": "SLANG"
+  },
+  {
+    "word": "dub",
+    "meaning": "勝利（W 的唸法）",
+    "example": "Got the last concert ticket. Massive dub.",
+    "tag": "SLANG"
+  },
+  {
+    "word": "curve",
+    "meaning": "拒絕別人的追求",
+    "example": "I asked her to dinner and got curved.",
+    "tag": "SLANG"
+  },
+  {
+    "word": "catch feelings",
+    "meaning": "動了真感情",
+    "example": "We said it was casual, but I caught feelings.",
+    "tag": "SLANG"
+  },
+  {
+    "word": "zombieing",
+    "meaning": "搞消失的人又突然冒出來聯絡",
+    "example": "He ghosted me for a year and just liked my story. Zombieing.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "Ohio",
+    "meaning": "很怪、很詭異（迷因用法）",
+    "example": "A raccoon just walked into the bus. Only in Ohio.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "cuffing season",
+    "meaning": "秋冬想找人交往取暖的季節",
+    "example": "It’s November. Cuffing season is officially here.",
+    "tag": "SLANG"
+  },
+  {
+    "word": "opp",
+    "meaning": "對頭、敵人；不可信任的人",
+    "example": "Don’t tell him our plans. He might be an opp.",
+    "tag": "STREET TALK"
+  },
+  {
+    "word": "keep it 100",
+    "meaning": "誠實、不裝",
+    "example": "Keep it 100 with me. Did you like the gift?",
+    "tag": "STREET TALK"
+  },
+  {
+    "word": "let’s get this bread",
+    "meaning": "拚了，去賺錢吧",
+    "example": "Monday morning. Let’s get this bread.",
+    "tag": "STREET TALK"
+  },
+  {
+    "word": "here for this",
+    "meaning": "大推、完全支持",
+    "example": "Cats in tiny hats? I’m here for this.",
+    "tag": "SLANG"
+  },
+  {
+    "word": "put on blast",
+    "meaning": "公開爆料、讓人難堪",
+    "example": "She put him on blast in the group chat.",
+    "tag": "SLANG"
+  },
+  {
+    "word": "lewk",
+    "meaning": "很有型的造型（look 的誇張拼法）",
+    "example": "Red boots with a green coat? That’s a lewk.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "fambushing",
+    "meaning": "用定位找到家人所在處，突然出現（多半為了蹭飯）",
+    "example": "My brother saw my location at the steakhouse and fambushed me.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "boo’d up",
+    "meaning": "有對象、在熱戀中",
+    "example": "We never see him anymore. He’s boo’d up.",
+    "tag": "STREET TALK"
+  },
+  {
+    "word": "hot take",
+    "meaning": "有爭議的意見",
+    "example": "Hot take: cereal is better without milk.",
+    "tag": "SLANG"
+  },
+  {
+    "word": "rizzler",
+    "meaning": "很會撩的人",
+    "example": "He got three numbers in one night. Certified rizzler.",
+    "tag": "GEN Z"
   }
 ]
