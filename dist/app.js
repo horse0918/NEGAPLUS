@@ -23,11 +23,14 @@ controls.forEach(button => button.disabled = true);
 byId('flip').onclick = () => { revealed = !revealed; draw(); };
 byId('prev').onclick = () => move(-1);
 byId('next').onclick = () => move(1);
-byId('shuffle').onclick = () => {
+function shuffleCards() {
   for (let i = cards.length - 1; i > 0; i--) {
     const j = Math.floor(Math.random() * (i + 1));
     [cards[i], cards[j]] = [cards[j], cards[i]];
   }
+}
+byId('shuffle').onclick = () => {
+  shuffleCards();
   index = 0;
   revealed = false;
   draw();
@@ -38,6 +41,7 @@ fetch('./words.json', {cache:'no-cache'}).then(response => {
 }).then(deck => {
   if (!Array.isArray(deck) || !deck.length) throw Error();
   cards = deck;
+  shuffleCards();
   controls.forEach(button => button.disabled = false);
   draw();
 }).catch(() => byId('word').textContent = '目前無法載入單字庫');

@@ -1,4 +1,4 @@
-const cacheName = 'nega-shell-1';
+const cacheName = 'nega-shell-2';
 const assets = ['./','./style.css','./app.js','./manifest.webmanifest','./icon-192.png','./icon-512.png','./words.json'];
 self.addEventListener('install', event => event.waitUntil(caches.open(cacheName).then(cache => cache.addAll(assets)).then(() => self.skipWaiting())));
 self.addEventListener('activate', event => event.waitUntil((async () => {
