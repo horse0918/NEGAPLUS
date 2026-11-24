@@ -1,0 +1,11 @@
+{
+  "name": "nega-plus-pwa",
+  "private": true,
+  "scripts": {
+    "start": "node server.mjs",
+    "push:keys": "web-push generate-vapid-keys --json"
+  },
+  "dependencies": {
+    "web-push": "3.6.7"
+  }
+}
