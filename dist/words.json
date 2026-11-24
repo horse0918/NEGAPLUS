@@ -1132,5 +1132,251 @@
     "meaning": "很會撩的人",
     "example": "He got three numbers in one night. Certified rizzler.",
     "tag": "GEN Z"
+  },
+  {
+    "word": "bop",
+    "meaning": "⚠️ 冒犯用語，使用可能被視為侮辱或歧視，並帶來人際、職場或校規後果。（Gen Alpha 用法）辱罵女生私生活不檢點；舊義是好聽的歌",
+    "example": "Kids online call girls “bops” as an insult, so be careful with that word.",
+    "tag": "⚠ OFFENSIVE"
+  },
+  {
+    "word": "gyat",
+    "meaning": "⚠️ 性暗示用語，正式或公開場合使用可能被視為冒犯或性騷擾，並帶來後果。看到身材火辣（尤其臀部）時的驚嘆",
+    "example": "Someone yelled “gyat” in the hallway and got sent to the office.",
+    "tag": "⚠ SEXUAL"
+  },
+  {
+    "word": "thot",
+    "meaning": "⚠️ 冒犯用語，使用可能被視為侮辱或歧視，並帶來人際、職場或校規後果。罵女生隨便、濫交（強烈貶義）",
+    "example": "Calling her a thot was way out of line.",
+    "tag": "⚠ OFFENSIVE"
+  },
+  {
+    "word": "foid",
+    "meaning": "⚠️ 冒犯用語，使用可能被視為侮辱或歧視，並帶來人際、職場或校規後果。物化、貶低女性的厭女用語",
+    "example": "That forum calls women “foids.” It’s pure misogyny.",
+    "tag": "⚠ OFFENSIVE"
+  },
+  {
+    "word": "huzz",
+    "meaning": "⚠️ 冒犯用語，使用可能被視為侮辱或歧視，並帶來人際、職場或校規後果。指（一群）辣妹，帶物化意味",
+    "example": "He said “the huzz” were at the party and everyone rolled their eyes.",
+    "tag": "⚠ OFFENSIVE"
+  },
+  {
+    "word": "chud",
+    "meaning": "⚠️ 冒犯用語，使用可能被視為侮辱或歧視，並帶來人際、職場或校規後果。罵人很遜、討人厭、粗魯的傢伙",
+    "example": "Don’t be a chud. Apologize to her.",
+    "tag": "⚠ OFFENSIVE"
+  },
+  {
+    "word": "beta",
+    "meaning": "⚠️ 冒犯用語，使用可能被視為侮辱或歧視，並帶來人際、職場或校規後果。罵人軟弱、只會跟隨別人",
+    "example": "He called his friend “beta” for helping his girlfriend move.",
+    "tag": "⚠ OFFENSIVE"
+  },
+  {
+    "word": "big back",
+    "meaning": "⚠️ 冒犯用語，使用可能被視為侮辱或歧視，並帶來人際、職場或校規後果。嘲笑人胖、很會吃（霸凌用語）",
+    "example": "Calling someone “big back” for ordering dessert is just bullying.",
+    "tag": "⚠ OFFENSIVE"
+  },
+  {
+    "word": "bih",
+    "meaning": "⚠️ 冒犯用語，使用可能被視為侮辱或歧視，並帶來人際、職場或校規後果。bitch 的口語拼法，語氣好壞看情境",
+    "example": "In texts, “bih” can be playful between friends or a real insult.",
+    "tag": "⚠ OFFENSIVE"
+  },
+  {
+    "word": "bird",
+    "meaning": "⚠️ 冒犯用語，使用可能被視為侮辱或歧視，並帶來人際、職場或校規後果。罵女生為了男生犯傻",
+    "example": "He called her a bird for texting him first. Rude.",
+    "tag": "⚠ OFFENSIVE"
+  },
+  {
+    "word": "zesty",
+    "meaning": "⚠️ 冒犯用語，使用可能被視為侮辱或歧視，並帶來人際、職場或校規後果。形容人很浮誇；常被用來暗酸男生「很 gay」",
+    "example": "Calling a guy “zesty” for wearing pink can come off as homophobic.",
+    "tag": "⚠ OFFENSIVE"
+  },
+  {
+    "word": "hunty",
+    "meaning": "⚠️ 冒犯用語，使用可能被視為侮辱或歧視，並帶來人際、職場或校規後果。honey＋粗話的組合，LGBTQ+ 圈內親暱稱呼",
+    "example": "In drag culture, “hunty” is affectionate, but outsiders using it can sound mocking.",
+    "tag": "⚠ OFFENSIVE"
+  },
+  {
+    "word": "FBOI",
+    "meaning": "⚠️ 冒犯用語，使用可能被視為侮辱或歧視，並帶來人際、職場或校規後果。渣男、玩弄感情的男生",
+    "example": "Everyone warned me he was an fboi.",
+    "tag": "⚠ OFFENSIVE"
+  },
+  {
+    "word": "fugly",
+    "meaning": "⚠️ 冒犯用語，使用可能被視為侮辱或歧視，並帶來人際、職場或校規後果。超級醜（含粗話）",
+    "example": "Saying someone’s outfit is fugly to their face is harsh.",
+    "tag": "⚠ OFFENSIVE"
+  },
+  {
+    "word": "body count",
+    "meaning": "⚠️ 性暗示用語，正式或公開場合使用可能被視為冒犯或性騷擾，並帶來後果。交往或發生過關係的人數",
+    "example": "Asking about someone’s body count on a first date is a bad idea.",
+    "tag": "⚠ SEXUAL"
+  },
+  {
+    "word": "ran through",
+    "meaning": "⚠️ 性暗示用語，正式或公開場合使用可能被視為冒犯或性騷擾，並帶來後果。罵人性經驗多、「被玩爛」（貶義）",
+    "example": "Calling someone “ran through” is slut-shaming.",
+    "tag": "⚠ SEXUAL"
+  },
+  {
+    "word": "BDE",
+    "meaning": "⚠️ 性暗示用語，正式或公開場合使用可能被視為冒犯或性騷擾，並帶來後果。從容自信的氣場（原為性暗示縮寫）",
+    "example": "He didn’t brag once and still owned the room. People call that BDE.",
+    "tag": "⚠ SEXUAL"
+  },
+  {
+    "word": "DTF",
+    "meaning": "⚠️ 性暗示用語，正式或公開場合使用可能被視為冒犯或性騷擾，並帶來後果。願意上床（down to f**k）",
+    "example": "His dating profile just said “DTF.” Hard pass.",
+    "tag": "⚠ SEXUAL"
+  },
+  {
+    "word": "FWB",
+    "meaning": "⚠️ 性暗示用語，正式或公開場合使用可能被視為冒犯或性騷擾，並帶來後果。炮友（friends with benefits）",
+    "example": "They’re not dating. They’re just FWB.",
+    "tag": "⚠ SEXUAL"
+  },
+  {
+    "word": "sneaky link",
+    "meaning": "⚠️ 性暗示用語，正式或公開場合使用可能被視為冒犯或性騷擾，並帶來後果。偷偷約炮或偷情的對象",
+    "example": "Turns out the “study buddy” was his sneaky link.",
+    "tag": "⚠ SEXUAL"
+  },
+  {
+    "word": "smash",
+    "meaning": "⚠️ 性暗示用語，正式或公開場合使用可能被視為冒犯或性騷擾，並帶來後果。跟某人上床（粗俗）",
+    "example": "Playing “smash or pass” about classmates can get you in trouble.",
+    "tag": "⚠ SEXUAL"
+  },
+  {
+    "word": "Netflix and chill",
+    "meaning": "⚠️ 性暗示用語，正式或公開場合使用可能被視為冒犯或性騷擾，並帶來後果。以看劇為名約到家裡親熱",
+    "example": "When he asked to Netflix and chill, he didn’t mean the movie.",
+    "tag": "⚠ SEXUAL"
+  },
+  {
+    "word": "thirst trap",
+    "meaning": "⚠️ 性暗示用語，正式或公開場合使用可能被視為冒犯或性騷擾，並帶來後果。故意吸引注意的性感照",
+    "example": "That gym mirror selfie is a thirst trap.",
+    "tag": "⚠ SEXUAL"
+  },
+  {
+    "word": "thirsty",
+    "meaning": "⚠️ 性暗示用語，正式或公開場合使用可能被視為冒犯或性騷擾，並帶來後果。急著想被關注、想約會或上床",
+    "example": "Commenting on every one of her posts at 2 a.m.? Thirsty.",
+    "tag": "⚠ SEXUAL"
+  },
+  {
+    "word": "cake",
+    "meaning": "⚠️ 性暗示用語，正式或公開場合使用可能被視為冒犯或性騷擾，並帶來後果。形容臀部又大又翹",
+    "example": "Commenting on someone’s “cake” at work is harassment.",
+    "tag": "⚠ SEXUAL"
+  },
+  {
+    "word": "smut",
+    "meaning": "⚠️ 性暗示用語，正式或公開場合使用可能被視為冒犯或性騷擾，並帶來後果。色情內容（尤指情色小說）",
+    "example": "That book is basically smut with a nice cover.",
+    "tag": "⚠ SEXUAL"
+  },
+  {
+    "word": "munch",
+    "meaning": "⚠️ 性暗示用語，正式或公開場合使用可能被視為冒犯或性騷擾，並帶來後果。（粗俗）指為女性口交的人；常被拿來罵人",
+    "example": "Kids use “munch” as an insult without knowing what it means.",
+    "tag": "⚠ SEXUAL"
+  },
+  {
+    "word": "fuhuhluhtoogan",
+    "meaning": "⚠️ 性暗示用語，正式或公開場合使用可能被視為冒犯或性騷擾，並帶來後果。（網路迷因）指床上功夫好的人",
+    "example": "That “fuhuhluhtoogan” meme is all over the comments.",
+    "tag": "⚠ SEXUAL"
+  },
+  {
+    "word": "plug",
+    "meaning": "⚠️ 毒品／菸品相關用語，使用可能讓人誤會你涉毒，並帶來後果。藥頭，或能弄到稀有東西的人",
+    "example": "He says he has a plug for concert tickets. Hopefully only tickets.",
+    "tag": "⚠ DRUGS"
+  },
+  {
+    "word": "faded",
+    "meaning": "⚠️ 毒品／菸品相關用語，使用可能讓人誤會你涉毒，並帶來後果。吸大麻後茫掉",
+    "example": "He showed up to practice faded and got benched.",
+    "tag": "⚠ DRUGS"
+  },
+  {
+    "word": "crossfaded",
+    "meaning": "⚠️ 毒品／菸品相關用語，使用可能讓人誤會你涉毒，並帶來後果。同時喝醉又吸茫",
+    "example": "He got crossfaded at the party and couldn’t get home.",
+    "tag": "⚠ DRUGS"
+  },
+  {
+    "word": "krunk",
+    "meaning": "⚠️ 毒品／菸品相關用語，使用可能讓人誤會你涉毒，並帶來後果。又醉又嗨、亢奮過頭",
+    "example": "They got krunk at the after-party.",
+    "tag": "⚠ DRUGS"
+  },
+  {
+    "word": "flavored air",
+    "meaning": "⚠️ 毒品／菸品相關用語，使用可能讓人誤會你涉毒，並帶來後果。電子菸（vape 的委婉說法）",
+    "example": "Teachers know “flavored air” means vaping.",
+    "tag": "⚠ DRUGS"
+  },
+  {
+    "word": "xan",
+    "meaning": "⚠️ 毒品／菸品相關用語，使用可能讓人誤會你涉毒，並帶來後果。贊安諾（Xanax），常被濫用的鎮靜劑",
+    "example": "Never take a xan someone hands you at a party.",
+    "tag": "⚠ DRUGS"
+  },
+  {
+    "word": "sparks",
+    "meaning": "⚠️ 毒品／菸品相關用語，使用可能讓人誤會你涉毒，並帶來後果。點大麻菸的那一刻",
+    "example": "When he said “sparks,” everyone knew what he meant.",
+    "tag": "⚠ DRUGS"
+  },
+  {
+    "word": "upper decky",
+    "meaning": "⚠️ 毒品／菸品相關用語，使用可能讓人誤會你涉毒，並帶來後果。塞在上牙齦的尼古丁袋",
+    "example": "He’s always got an upper decky in during class.",
+    "tag": "⚠ DRUGS"
+  },
+  {
+    "word": "KYS",
+    "meaning": "⚠️ 涉及自殺或自傷，對人說可能造成嚴重傷害並帶來後果；如有需要請撥 1925 安心專線。叫人去死（kill yourself），極度傷人",
+    "example": "Typing “KYS” in a group chat can get you banned or reported.",
+    "tag": "⚠ SELF-HARM"
+  },
+  {
+    "word": "KMS",
+    "meaning": "⚠️ 涉及自殺或自傷，對人說可能造成嚴重傷害並帶來後果；如有需要請撥 1925 安心專線。我想死（kill myself），常被當玩笑",
+    "example": "She texted “kms” about homework, but I still checked on her.",
+    "tag": "⚠ SELF-HARM"
+  },
+  {
+    "word": "unalive",
+    "meaning": "⚠️ 涉及自殺或自傷，對人說可能造成嚴重傷害並帶來後果；如有需要請撥 1925 安心專線。「死」或「自殺」的委婉說法（避開平台審查）",
+    "example": "Creators say “unalive” so their videos don’t get flagged.",
+    "tag": "⚠ SELF-HARM"
+  },
+  {
+    "word": "LFG",
+    "meaning": "⚠️ 冒犯用語，使用可能被視為侮辱或歧視，並帶來人際、職場或校規後果。衝啊（let’s f**king go），含粗話",
+    "example": "We won the finals! LFG!",
+    "tag": "⚠ OFFENSIVE"
+  },
+  {
+    "word": "FML",
+    "meaning": "⚠️ 冒犯用語，使用可能被視為侮辱或歧視，並帶來人際、職場或校規後果。我的人生好慘（f**k my life），含粗話",
+    "example": "Missed the last train home. FML.",
+    "tag": "⚠ OFFENSIVE"
   }
 ]

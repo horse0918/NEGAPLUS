@@ -32,7 +32,7 @@ function due(config, time) {
   return elapsed <= (config.end - config.start + 1440) % 1440 && elapsed % config.interval === 0;
 }
 async function deck() {
-  return JSON.parse(await readFile(new URL('words.json',root),'utf8'));
+  return JSON.parse(await readFile(new URL('words.json',root),'utf8')).filter(entry => !String(entry.tag).startsWith('⚠'));
 }
 async function send(subscription, word) {
   await webpush.sendNotification(subscription, word, {TTL:120, timeout:8000});
