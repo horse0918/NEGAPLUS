@@ -1378,5 +1378,485 @@
     "meaning": "⚠️ 冒犯用語，使用可能被視為侮辱或歧視，並帶來人際、職場或校規後果。我的人生好慘（f**k my life），含粗話",
     "example": "Missed the last train home. FML.",
     "tag": "⚠ OFFENSIVE"
+  },
+  {
+    "word": "huss",
+    "meaning": "形容快速有節奏地吐氣的聲音；2026 年 11 月爆紅的迷因詞",
+    "example": "He did ten push-ups going “huss, huss, huss” like a pro athlete.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "aurapilled",
+    "meaning": "突然意識到「氣場」這回事（多半自嘲）",
+    "example": "I watched one aura video and now I’m aurapilled.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "wrizz",
+    "meaning": "溫柔真誠的撩（wholesome rizz）",
+    "example": "He remembered her coffee order from a month ago. That’s wrizz.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "hard pass",
+    "meaning": "絕對不要、免了",
+    "example": "A 6 a.m. hike in the rain? Hard pass.",
+    "tag": "SLANG"
+  },
+  {
+    "word": "dad bod",
+    "meaning": "老爸身材（微胖不精實）",
+    "example": "He’s rocking a dad bod and owning it.",
+    "tag": "SLANG"
+  },
+  {
+    "word": "it is what it is",
+    "meaning": "就這樣吧、沒辦法改變了",
+    "example": "The flight got canceled. It is what it is.",
+    "tag": "SLANG"
+  },
+  {
+    "word": "I can’t even",
+    "meaning": "我無言了、受不了",
+    "example": "He proposed at a fast-food drive-thru. I can’t even.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "that’s on me",
+    "meaning": "是我的錯、我負責",
+    "example": "I forgot to book the table. That’s on me.",
+    "tag": "SLANG"
+  },
+  {
+    "word": "that’s a you problem",
+    "meaning": "那是你自己的問題",
+    "example": "You stayed up till 4 a.m.? That’s a you problem.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "not me ___ing",
+    "meaning": "自嘲句型：沒想到我居然在……",
+    "example": "Not me crying at a dog food commercial.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "the way I ___",
+    "meaning": "強調反應句型：我真的……",
+    "example": "The way I screamed when I saw the price.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "I’m screaming",
+    "meaning": "笑死、太好笑了",
+    "example": "Your dog in that costume? I’m screaming.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "living for this",
+    "meaning": "超愛、太享受了",
+    "example": "Matching pajamas at the sleepover? I’m living for this.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "vibe shift",
+    "meaning": "整體風向或氛圍改變",
+    "example": "Everyone’s wearing skinny jeans again. Vibe shift.",
+    "tag": "SLANG"
+  },
+  {
+    "word": "toxic",
+    "meaning": "有毒的、讓人受傷的（人或關係）",
+    "example": "Checking his phone every hour? That relationship is toxic.",
+    "tag": "SLANG"
+  },
+  {
+    "word": "love bombing",
+    "meaning": "愛情轟炸：一開始過度示好來操控對方",
+    "example": "Flowers every day after one date felt like love bombing.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "ship",
+    "meaning": "希望兩人在一起、湊 CP",
+    "example": "I totally ship those two coworkers.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "OTP",
+    "meaning": "本命 CP（one true pairing）",
+    "example": "Those two characters are my OTP.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "binge",
+    "meaning": "一口氣狂看、狂吃",
+    "example": "I binged the whole season in one night.",
+    "tag": "SLANG"
+  },
+  {
+    "word": "spoiler",
+    "meaning": "爆雷",
+    "example": "No spoilers! I haven’t seen the finale yet.",
+    "tag": "SLANG"
+  },
+  {
+    "word": "clout",
+    "meaning": "網路聲量、名氣",
+    "example": "He only did that stunt for clout.",
+    "tag": "SLANG"
+  },
+  {
+    "word": "clout chasing",
+    "meaning": "蹭流量、刻意博關注",
+    "example": "Filming strangers to embarrass them is clout chasing.",
+    "tag": "SLANG"
+  },
+  {
+    "word": "cancel",
+    "meaning": "公開抵制某人",
+    "example": "Fans tried to cancel him over old tweets.",
+    "tag": "SLANG"
+  },
+  {
+    "word": "troll",
+    "meaning": "故意鬧人、酸民",
+    "example": "Don’t feed the trolls. Just block them.",
+    "tag": "SLANG"
+  },
+  {
+    "word": "OK boomer",
+    "meaning": "嗆老古板、不想聽說教",
+    "example": "“Phones are ruining your generation.” “OK boomer.”",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "cringe",
+    "meaning": "尷尬到起雞皮疙瘩",
+    "example": "My old Facebook posts are so cringe.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "secondhand embarrassment",
+    "meaning": "替別人感到尷尬",
+    "example": "Watching his proposal fail gave me secondhand embarrassment.",
+    "tag": "SLANG"
+  },
+  {
+    "word": "nepo baby",
+    "meaning": "靠父母人脈的星二代",
+    "example": "Turns out the lead actor is a nepo baby.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "quiet quitting",
+    "meaning": "只做分內工作、不再額外付出",
+    "example": "Since the pay cut, half the team is quiet quitting.",
+    "tag": "SLANG"
+  },
+  {
+    "word": "bare minimum",
+    "meaning": "最低限度、應該做的事",
+    "example": "Texting back is the bare minimum.",
+    "tag": "SLANG"
+  },
+  {
+    "word": "side hustle",
+    "meaning": "副業、兼差",
+    "example": "Her candle side hustle pays more than her job.",
+    "tag": "SLANG"
+  },
+  {
+    "word": "burnout",
+    "meaning": "過勞、身心耗竭",
+    "example": "Three months of overtime led to total burnout.",
+    "tag": "SLANG"
+  },
+  {
+    "word": "gym rat",
+    "meaning": "健身狂",
+    "example": "He’s a total gym rat. Twice a day, every day.",
+    "tag": "SLANG"
+  },
+  {
+    "word": "hangry",
+    "meaning": "餓到生氣",
+    "example": "Feed me before I get hangry.",
+    "tag": "SLANG"
+  },
+  {
+    "word": "adulting",
+    "meaning": "做大人該做的事（繳帳單、報稅等）",
+    "example": "I paid my taxes and booked a dentist appointment. Adulting is hard.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "JOMO",
+    "meaning": "錯過的快樂（joy of missing out）",
+    "example": "Everyone went clubbing. I stayed home with tea. JOMO.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "orbiting",
+    "meaning": "不聯絡卻一直看你的限動",
+    "example": "He ghosted me but watches every story. Classic orbiting.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "benching",
+    "meaning": "把人當備胎吊著",
+    "example": "She only texts me when her plans fall through. I’m being benched.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "shoot your shot",
+    "meaning": "勇敢出手、主動告白或爭取",
+    "example": "Just shoot your shot. The worst she can say is no.",
+    "tag": "SLANG"
+  },
+  {
+    "word": "slide into the DMs",
+    "meaning": "私訊搭訕",
+    "example": "He slid into her DMs with a cat meme.",
+    "tag": "SLANG"
+  },
+  {
+    "word": "finsta",
+    "meaning": "只給熟人看的小帳",
+    "example": "She posts the real stuff on her finsta.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "pics or it didn’t happen",
+    "meaning": "沒圖沒真相",
+    "example": "You met Taylor Swift? Pics or it didn’t happen.",
+    "tag": "SLANG"
+  },
+  {
+    "word": "yeet",
+    "meaning": "用力丟；也當興奮的歡呼",
+    "example": "He yeeted his phone across the couch.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "built different",
+    "meaning": "天生不一樣、很強",
+    "example": "She studies all night and still runs a 5K. Built different.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "slept on",
+    "meaning": "被低估、沒被注意到",
+    "example": "This band is so slept on.",
+    "tag": "SLANG"
+  },
+  {
+    "word": "it’s not that deep",
+    "meaning": "沒那麼嚴重、別想太多",
+    "example": "It’s just a typo. It’s not that deep.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "the audacity",
+    "meaning": "好大的膽子、真敢",
+    "example": "He asked to borrow money again. The audacity.",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "who asked?",
+    "meaning": "誰問你了（嗆人）",
+    "example": "“Actually, I liked the old version better.” “Who asked?”",
+    "tag": "GEN Z"
+  },
+  {
+    "word": "real one",
+    "meaning": "真朋友、靠得住的人",
+    "example": "He drove me to the airport at 4 a.m. Real one.",
+    "tag": "STREET TALK"
+  },
+  {
+    "word": "OG",
+    "meaning": "元老、老大哥；最原始的",
+    "example": "She’s an OG in this skate crew.",
+    "tag": "STREET TALK"
+  },
+  {
+    "word": "word",
+    "meaning": "真的、同意",
+    "example": "“The party’s at Jay’s tonight.” “Word.”",
+    "tag": "STREET TALK"
+  },
+  {
+    "word": "say word?",
+    "meaning": "真的假的？",
+    "example": "You got the job? Say word?",
+    "tag": "STREET TALK"
+  },
+  {
+    "word": "bread",
+    "meaning": "錢",
+    "example": "I need to stack some bread before the trip.",
+    "tag": "STREET TALK"
+  },
+  {
+    "word": "whip",
+    "meaning": "車子（尤其很帥的車）",
+    "example": "Check out his new whip.",
+    "tag": "STREET TALK"
+  },
+  {
+    "word": "kicks",
+    "meaning": "球鞋",
+    "example": "Those are some clean kicks.",
+    "tag": "STREET TALK"
+  },
+  {
+    "word": "crib",
+    "meaning": "家、住處",
+    "example": "Come chill at my crib tonight.",
+    "tag": "STREET TALK"
+  },
+  {
+    "word": "shorty",
+    "meaning": "女朋友、心儀的女生",
+    "example": "He’s bringing his shorty to the party.",
+    "tag": "STREET TALK"
+  },
+  {
+    "word": "innit",
+    "meaning": "對吧、不是嗎（isn’t it）",
+    "example": "Cold today, innit?",
+    "tag": "UK SLANG"
+  },
+  {
+    "word": "peng",
+    "meaning": "很好看、很好吃",
+    "example": "That cake is peng.",
+    "tag": "UK SLANG"
+  },
+  {
+    "word": "bare",
+    "meaning": "很多、非常",
+    "example": "There were bare people at the gig.",
+    "tag": "UK SLANG"
+  },
+  {
+    "word": "peak",
+    "meaning": "很衰、很慘",
+    "example": "Missed the bus and it started raining. Peak.",
+    "tag": "UK SLANG"
+  },
+  {
+    "word": "mandem",
+    "meaning": "一群兄弟、男生朋友",
+    "example": "I’m linking with the mandem later.",
+    "tag": "UK SLANG"
+  },
+  {
+    "word": "wagwan",
+    "meaning": "怎樣、嗨（what’s going on）",
+    "example": "Wagwan, bro? Long time.",
+    "tag": "UK SLANG"
+  },
+  {
+    "word": "allow it",
+    "meaning": "算了吧、別鬧了",
+    "example": "Allow it, mate. It’s not worth the fight.",
+    "tag": "UK SLANG"
+  },
+  {
+    "word": "long",
+    "meaning": "很麻煩、很費工",
+    "example": "Taking two buses to get there is long.",
+    "tag": "UK SLANG"
+  },
+  {
+    "word": "ends",
+    "meaning": "住的那一帶、地盤",
+    "example": "He’s from my ends.",
+    "tag": "UK SLANG"
+  },
+  {
+    "word": "gutted",
+    "meaning": "超失望、難過",
+    "example": "I was gutted when the concert got canceled.",
+    "tag": "UK SLANG"
+  },
+  {
+    "word": "chuffed",
+    "meaning": "很開心、很得意",
+    "example": "I’m well chuffed with my exam results.",
+    "tag": "UK SLANG"
+  },
+  {
+    "word": "knackered",
+    "meaning": "累壞了",
+    "example": "After that shift I’m absolutely knackered.",
+    "tag": "UK SLANG"
+  },
+  {
+    "word": "GG",
+    "meaning": "打得好；也指「完了、沒救了」",
+    "example": "I forgot my passport at home. GG.",
+    "tag": "GAMING"
+  },
+  {
+    "word": "noob",
+    "meaning": "菜鳥、新手",
+    "example": "Go easy on me, I’m a noob.",
+    "tag": "GAMING"
+  },
+  {
+    "word": "carry",
+    "meaning": "帶飛隊友",
+    "example": "She carried the whole team last round.",
+    "tag": "GAMING"
+  },
+  {
+    "word": "clutch",
+    "meaning": "關鍵時刻表現神勇",
+    "example": "That last-second goal was clutch.",
+    "tag": "GAMING"
+  },
+  {
+    "word": "nerf",
+    "meaning": "削弱",
+    "example": "They nerfed my favorite character in the update.",
+    "tag": "GAMING"
+  },
+  {
+    "word": "buff",
+    "meaning": "加強",
+    "example": "The new patch buffed healers.",
+    "tag": "GAMING"
+  },
+  {
+    "word": "OP",
+    "meaning": "太強、強到不平衡（overpowered）",
+    "example": "That sword is OP. Nobody can beat it.",
+    "tag": "GAMING"
+  },
+  {
+    "word": "tryhard",
+    "meaning": "太拚、太認真（帶貶意）",
+    "example": "It’s a casual game. Don’t be a tryhard.",
+    "tag": "GAMING"
+  },
+  {
+    "word": "AFK",
+    "meaning": "暫時離開（away from keyboard）",
+    "example": "Brb, going AFK to grab food.",
+    "tag": "GAMING"
+  },
+  {
+    "word": "rage quit",
+    "meaning": "氣到直接退出",
+    "example": "He lost three rounds and rage quit.",
+    "tag": "GAMING"
+  },
+  {
+    "word": "main",
+    "meaning": "最常用的角色；也指主帳號",
+    "example": "Who’s your main in this game?",
+    "tag": "GAMING"
   }
 ]
